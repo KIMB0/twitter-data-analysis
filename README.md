@@ -26,9 +26,11 @@ ___
 
 ### 5. Who are the five most grumpy (most negative tweets) and the most happy (most positive tweets)? (Provide five users for each group)
 **Grumpiest:**
+
 ![](pictures/5.Grumpiest.PNG)
 
 **Happiest:**
+
 ![](pictures/6.Happiest.PNG)
 ___
 
